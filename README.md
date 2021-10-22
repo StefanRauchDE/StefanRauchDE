@@ -10,7 +10,10 @@
   - vim
   - Kotlin
   - AWS
-  
+  - Kubernetes
+  - Docker
+  - ...
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
